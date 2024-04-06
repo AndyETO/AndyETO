@@ -1,23 +1,26 @@
 <h1 align="center">Hi, I'm Andres Toledo a software developer 🦾👨‍💻</h1>
-<h3 align="center"></h3>
+<h3 align="center">...</h3>
 
 <!--Image sample here-->
 
 <!--About me display-->
-## About me
+<details>
+<summary>
+<h3>About me</h2>
+</summary>
+  
 ### Who am I?
 
 ### Where am I going to...?
 
-## Jobs
-- [Grupo Lan, September 2022 - Current.](https://www.linkedin.com/company/grupolan/mycompany/)
+</details>
 
-## Education
+## Current Job
+- [Grupo Lan, September 2022 - Current.](https://www.linkedin.com/company/grupolan/mycompany/)
 
 <!--
 ## Achievements
 -->
-
 
 ## Highlighted Proyects
 - MaritzaSeams
@@ -49,7 +52,7 @@
 - Angular
 - NEOVIM
 
-## Lenguage
+## Lenguages
 - Spanish
 - English
 
