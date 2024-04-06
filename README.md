@@ -10,7 +10,7 @@
 ### Where am I going to...?
 
 ## Jobs
-- Grupo Lan, September 2022 - Current. (https://www.linkedin.com/company/grupolan/mycompany/)
+- [Grupo Lan, September 2022 - Current.](https://www.linkedin.com/company/grupolan/mycompany/)
 
 ## Education
 
@@ -57,7 +57,7 @@
 
 
 ## Connect with me:
-- [Discord] (discordapp.com/users/649858672805150741)
-- [Linkedin] (www.linkedin.com/in/toledoandres)
-- [Portfolio] (www.google.com)
-- [CV] (www.google.com)
+- [Discord](discordapp.com/users/649858672805150741)
+- [Linkedin](www.linkedin.com/in/toledoandres)
+- [Portfolio](www.google.com)
+- [CV](www.google.com)
