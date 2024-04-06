@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, welcome to my github perfile 👋 🕺🏻</h1>
-<h3 align="center">I'm Andres Toledo a software developer </h3>
+<h1 align="center">Hi, I'm Andres Toledo a software developer 🦾👨‍💻</h1>
+<h3 align="center"> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
