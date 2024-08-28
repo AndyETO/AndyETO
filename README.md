@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andres Toledo a software developer 🦾👨‍💻</h1>
-<h3 align="center">...</h3>
+<h3 align="center">"Coding with a coffee"</h3>
 
 <!--Image sample here-->
 
@@ -15,9 +15,6 @@
 
 </details>
 
-## Current Job
-- [Grupo Lan, September 2022 - Current.](https://www.linkedin.com/company/grupolan/mycompany/)
-
 <!--
 ## Achievements
 -->
@@ -26,11 +23,11 @@
 - MaritzaSeams
 - APITools
 - WebScraping
-- DayTracking
-- APIBank
+- BlazorApp/Characters
 
 ## Tech
 - C#
+- .NET
 - Python
 - Java
 - JavaScript
@@ -39,13 +36,13 @@
 - CSS
 - Bootstrap
 - SQL Server
-- MySQL
-- Git
+- Blazor
+- Radzen
+- Git...also github...that's why I'm here
 - Linux
 - Postman
 - Visual studio
 - Visual studio code
-- Eclipse
 
 ## Learning
 - TypeScript
@@ -56,11 +53,7 @@
 - Spanish
 - English
 
-## Last comments :)
-
-
 ## Connect with me:
 - [Discord](discordapp.com/users/649858672805150741)
 - [Linkedin](www.linkedin.com/in/toledoandres)
-- [Portfolio](www.google.com)
 - [CV](www.google.com)
